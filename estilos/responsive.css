@@ -1,0 +1,25 @@
+@media (max-width:600px) {
+    body{
+        background-color: blanchedalmond;
+    }
+    .container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .imagen{
+        width: 180px;
+        height: 180px;
+    }
+    #apartado_1{
+        width: 70%;
+        margin: auto 12%;
+        border: 1px solid blue;
+    }
+    .nombre{
+        font-size: 20px;
+    }
+    .api_1{
+        font-size: 15px;
+    }
+}
