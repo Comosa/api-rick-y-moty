@@ -1,7 +1,5 @@
-@media (max-width:600px) {
-    body{
-        background-color: blanchedalmond;
-    }
+@media (max-width:600px ) {
+
     .container{
         display: flex;
         flex-direction: column;
@@ -13,13 +11,258 @@
     }
     #apartado_1{
         width: 70%;
-        margin: auto 12%;
+        margin-left: 10vh;
+        margin-bottom: 3rem;
         border: 1px solid blue;
     }
     .nombre{
         font-size: 20px;
+        padding: 10px 0;
     }
     .api_1{
-        font-size: 15px;
+        font-size: 16px;
+    }
+    #apartado_2{
+        width: 70%;
+        margin-left: 10vh;
+        margin-bottom: 3rem;
+        border: 1px solid blue;
+    }
+    .Nombre{
+        font-size: 20px;
+        padding: 10px 0;
+    }
+    .api_2{
+        font-size: 16px;
+    }
+    #apartado_3{
+        width: 70%;
+        margin-left: 10vh;
+        margin-bottom: 3rem;
+        border: 1px solid blue;
+    }
+    .baby_morty{
+        font-size: 20px;
+        padding: 10px 0;
+    }
+    .api_3{
+        font-size: 16px;
+    }
+    #apartado_4{
+        width: 70%;
+        margin-left: 10vh;
+        margin-bottom: 3rem;
+        border: 1px solid blue;
+    }
+    .rick_name{
+        font-size: 20px;
+        padding: 10px 0;
+    }
+    .api_4{
+        font-size: 16px;
+    }
+    #apartado_5{
+        width: 70%;
+        margin-left: 10vh;
+        margin-bottom: 3rem;
+        border: 1px solid blue;
+    }
+    .general_name{
+        font-size: 20px;
+        padding: 10px 0;
+    }
+    .api_5{
+        font-size: 16px;
+    }
+    #apartado_6{
+        width: 70%;
+        margin-left: 10vh;
+        margin-bottom: 3rem;
+        border: 1px solid blue;
+    }
+    .brujo_name{
+        font-size: 20px;
+        padding: 10px 0;
+    }
+    .api_6{
+        font-size: 16px;
+    }
+    #apartado_7{
+        width: 70%;
+        margin-left: 10vh;
+        margin-bottom: 3rem;
+        border: 1px solid blue;
+    }
+    .articia_name{
+        font-size: 20px;
+        padding: 10px 0;
+    }
+    .api_7{
+        font-size: 16px;
+    }
+    #apartado_8{
+        width: 70%;
+        margin-left: 10vh;
+        margin-bottom: 3rem;
+        border: 1px solid blue;
+    }
+    .presidente_name{
+        font-size: 20px;
+        padding: 10px 0;
+    }
+    .api_8{
+        font-size: 16px;
+    }
+    #apartado_9{
+        width: 70%;
+        margin-left: 10vh;
+        margin-bottom: 3rem;
+        border: 1px solid blue;
+    }
+    .perro_name{
+        font-size: 20px;
+        padding: 10px 0;
+    }
+    .api_9{
+        font-size: 16px;
+    }
+}
+/* @media  (min-width:600px){
+    body{
+        background-color: red;
+    }
+    .container{
+        display: flex;
+        justify-content: space-around;
+    }
+} */
+
+@media (max-width:990px ) {
+
+    .container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .imagen{
+        width: 200px;
+        height: 200px;
+    }
+    #apartado_1{
+        width: 75%;
+        margin-left: 90px;
+        margin-bottom: 3rem;
+        border: 1px solid blue;
+    }
+    .nombre{
+        font-size: 23px;
+        padding: 10px 0;
+    }
+    .api_1{
+        font-size: 18px;
+    }
+    #apartado_2{
+        width: 75%;
+        margin-left: 90px;
+        margin-bottom: 3rem;
+        border: 1px solid blue;
+    }
+    .Nombre{
+        font-size: 20px;
+        padding: 10px 0;
+    }
+    .api_2{
+        font-size: 16px;
+    }
+    #apartado_3{
+        width: 75%;
+        margin-left: 90px;
+        margin-bottom: 3rem;
+        border: 1px solid blue;
+    }
+    .baby_morty{
+        font-size: 20px;
+        padding: 10px 0;
+    }
+    .api_3{
+        font-size: 16px;
+    }
+    #apartado_4{
+        width: 75%;
+        margin-left: 90px;
+        margin-bottom: 3rem;
+        border: 1px solid blue;
+    }
+    .rick_name{
+        font-size: 20px;
+        padding: 10px 0;
+    }
+    .api_4{
+        font-size: 16px;
+    }
+    #apartado_5{
+        width: 75%;
+        margin-left: 90px;
+        margin-bottom: 3rem;
+        border: 1px solid blue;
+    }
+    .general_name{
+        font-size: 20px;
+        padding: 10px 0;
+    }
+    .api_5{
+        font-size: 16px;
+    }
+    #apartado_6{
+        width: 75%;
+        margin-left: 90px;
+        margin-bottom: 3rem;
+        border: 1px solid blue;
+    }
+    .brujo_name{
+        font-size: 20px;
+        padding: 10px 0;
+    }
+    .api_6{
+        font-size: 16px;
+    }
+    #apartado_7{
+        width: 75%;
+        margin-left: 90px;
+        margin-bottom: 3rem;
+        border: 1px solid blue;
+    }
+    .articia_name{
+        font-size: 20px;
+        padding: 10px 0;
+    }
+    .api_7{
+        font-size: 16px;
+    }
+    #apartado_8{
+        width: 75%;
+        margin-left: 90px;
+        margin-bottom: 3rem;
+        border: 1px solid blue;
+    }
+    .presidente_name{
+        font-size: 20px;
+        padding: 10px 0;
+    }
+    .api_8{
+        font-size: 16px;
+    }
+    #apartado_9{
+        width: 75%;
+        margin-left: 90px;
+        margin-bottom: 3rem;
+        border: 1px solid blue;
+    }
+    .perro_name{
+        font-size: 20px;
+        padding: 10px 0;
+    }
+    .api_9{
+        font-size: 16px;
     }
 }
